@@ -2,8 +2,9 @@
 A simple lib to post and research
 
 #Exemple
-from twitter import Twitter
 ```python
+from twitter import Twitter
+
 consumerKey = 'yourConsumerKey'
 consumerSecret = 'yourConsumerSecrey'
 
